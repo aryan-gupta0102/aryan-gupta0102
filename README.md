@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 - This is a change made for CS 1200
 
 <!--
 **aryan-gupta0102/aryan-gupta0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
