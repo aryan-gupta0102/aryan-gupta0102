@@ -1,6 +1,6 @@
 Aryan Gupta
 
-Pursuing Bachelor's degree in Computer Science
+Pursuing Bachelor's degree in Computer Science (Expected to graduate 2028)
 Northeastern Univerity - Khoury College of Computer Science, John Martinson Honors Program
 
 Experience 1
